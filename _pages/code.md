@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Past Projects"
-permalink: /Past Projects/
+permalink: /code/
 author_profile: true
 ---
 <!-- 

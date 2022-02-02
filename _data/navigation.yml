@@ -2,7 +2,10 @@
 main:
 
   - title: "Current Projects"
-    url: /projects/
+    url: /current_projects/
+
+  - title: "Past Projects"
+    url: /past_projects/
 
   - title: "Publications"
     url: /publications/
@@ -19,8 +22,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
 
-  - title: "Code"
-    url: /code/
+  - title: "Extracurriculars"
+    url: /extrac/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
