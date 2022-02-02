@@ -29,7 +29,7 @@ pp. 1–71, Mar. 2021.[https://doi.org/10.1175/JCLI-D-20-0391.1](https://doi.org
 B. Hatchett, [...], **M. Sierks**, and [...], “Observations of an extreme atmospheric river storm with a diverse
 sensor network”, Earth and Space Science, Jul. 2020. [https://doi.org/10.1029/2020EA001129](https://doi.org/10.1029/2020EA001129)
 
-M. Sierks, J. Kalansky, F. Cannon, and F. Ralph, “Characteristics, origins, and impacts of summertime
+**M. Sierks**, J. Kalansky, F. Cannon, and F. Ralph, “Characteristics, origins, and impacts of summertime
 extreme precipitation in the lake mead watershed”, Journal of Climate, Apr. 2020.[https://doi.org/10.1175/JCLI-D-19-0387.1](https://doi.org/10.1175/JCLI-D-19-0387.1)
 
 
