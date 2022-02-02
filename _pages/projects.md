@@ -23,7 +23,7 @@ With the arrival of increasing droughts and floods, declining snowpacks, increas
 
 The primary objective of this work is to investigate the impacts of climate change on rule-curve based reservoir operations for low-elevation historically rain-and-snow driven basins by using the Shasta reservoir in the Trinity Alps of northwestern California as a case study. 
 
-<img src="http://mdsierks.github.io/images/BCplot.jpg" alt="ELNINO" width="900"/>
+<img src="http://mdsierks.github.io/images/Sierks_FIRO.gif" alt="SHA" width="900"/>
 
 **Project Lead:** Mike Sierks<br/>
 <a href="https://scholar.google.com/citations?user=or6mIK0AAAAJ&hl=en"><img src="http://mdsierks.github.io/images/sierks_mike-5_0.jpg" alt="MDS" width="100"/></a> 
@@ -40,12 +40,12 @@ Raw output from climate models is often considerably biased and too coarse in sp
 
 The primary objective of this work is to develop a novel statistical post-processing scheme to improve on current streamflow bias correction methods. This technique abandons building transfer functions from data centered on a julian date, and rather uses 'sesasonally anchored' windows informed by a river's climatological hydrograph. 
 
-<img src="http://mdsierks.github.io/images/Sierks_FIRO.gif" alt="ELNINO" width="900"/>
+<img src="http://mdsierks.github.io/images/BCplot.jpg" alt="BC" width="900"/>
 
 **Project Lead:** Mike Sierks<br/>
 <a href="https://scholar.google.com/citations?user=or6mIK0AAAAJ&hl=en"><img src="http://mdsierks.github.io/images/sierks_mike-5_0.jpg" alt="MDS" width="100"/></a> 
 
-**Collaborators:** Dave Pierce, Will Chapman, Marty Ralph <br/> <a href="https://scholar.google.com/citations?user=JbFKaYUAAAAJ&hl=en"><img src="http://mdsierks.github.io/images/DP.jpg" alt="DP" width="100"/></a>  <img src="http://mdsierks.github.io/images/william_chapman_square.jpg" alt="Me" width="100"/> <a href="https://mralph.scrippsprofiles.ucsd.edu/"><img src="http://mdsierks.github.io/images/FMR.jpg" alt="FMR" width="100"/></a> 
+**Collaborators:** Dave Pierce, Will Chapman, Marty Ralph <br/> <a href="https://scholar.google.com/citations?user=JbFKaYUAAAAJ&hl=en"><img src="http://mdsierks.github.io/images/DP.jpeg" alt="DP" width="100"/></a>  <img src="http://mdsierks.github.io/images/william_chapman_square.jpg" alt="Me" width="100"/> <a href="https://mralph.scrippsprofiles.ucsd.edu/"><img src="http://mdsierks.github.io/images/FMR.jpg" alt="FMR" width="100"/></a> 
 
 *****
 *****
