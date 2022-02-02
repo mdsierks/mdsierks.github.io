@@ -25,7 +25,7 @@ The North American monsoon (NAM) is the main driver of summertime climate variab
 
 **Project Lead:** Mike Sierks<br/>
 <a href="https://mdsierks.github.io/"><img src="http://mdsierks.github.io/images/sierks_mike-5_0.jpg" alt="Me" width="100"/></a><br/>
-**Collaborators:** Julie Kalansky, Forest Cannon, Marty Ralph <br/> <a href="https://scripps.ucsd.edu/profiles/jkalansky"><img src="http://mdsierks.github.io/images/JK.jpg" alt="JK" width="100"/></a> <a href="https://scholar.google.com/citations?user=7tTzxJcAAAAJ&hl=en"><img src="http://mdsierks.github.io/images/FC.jpg" alt="FC" width="100"/></a> <a href="https://mralph.scrippsprofiles.ucsd.edu/"><img src="http://mdsierks.github.io/images/FMR.jpg" alt="FMR" width="100"/></a>
+**Collaborators:** Julie Kalansky, Forest Cannon, Marty Ralph <br/> <a href="https://scripps.ucsd.edu/profiles/jkalansky"><img src="http://mdsierks.github.io/images/JK.jpeg" alt="JK" width="100"/></a> <a href="https://scholar.google.com/citations?user=7tTzxJcAAAAJ&hl=en"><img src="http://mdsierks.github.io/images/FC.jpeg" alt="FC" width="100"/></a> <a href="https://mralph.scrippsprofiles.ucsd.edu/"><img src="http://mdsierks.github.io/images/FMR.jpg" alt="FMR" width="100"/></a>
 
 *****
 *****
