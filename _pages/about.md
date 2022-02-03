@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  overlay_image: /images/mountain_range.png
+  overlay_image: /assets/images/mountain_range.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 ## About
