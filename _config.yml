@@ -77,9 +77,7 @@ analytics:
   google:
     tracking_id          :
 
-header:
-  overlay_image: "mountain_range.png"
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+
 
 # Site Author
 author:
@@ -205,6 +203,9 @@ defaults:
       comments: true
       share: true
       related: true
+    header:
+      overlay_image: "mountain_range.png"
+      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   # _pages
   - scope:
       path: ""
