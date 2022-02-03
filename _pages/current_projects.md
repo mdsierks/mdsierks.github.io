@@ -28,7 +28,7 @@ The primary objective of this work is to investigate the impacts of climate chan
 **Project Lead:** Mike Sierks<br/>
 <a href="https://mdsierks.github.io/"><img src="http://mdsierks.github.io/images/sierks_mike-5_0.jpg" alt="Me" width="100"/></a><br/>
 
-**Collaborators:** Mike Dettinger, Will Chapman, Marty Ralph <br/> <a href="https://scholar.google.com/citations?user=JbFKaYUAAAAJ&hl=en"><img src="http://mdsierks.github.io/images/MDet.jpg" alt="ACS" width="100"/></a>  <img src="http://mdsierks.github.io/images/william_chapman_square.jpg" alt="Me" width="100"/> <a href="https://mralph.scrippsprofiles.ucsd.edu/"><img src="http://mdsierks.github.io/images/FMR.jpg" alt="FMR" width="100"/></a> 
+**Collaborators:** Mike Dettinger, Will Chapman, Marty Ralph <br/> <a href="https://scholar.google.com/citations?user=JbFKaYUAAAAJ&hl=en"><img src="http://mdsierks.github.io/images/MDet.jpg" alt="ACS" width="100"/></a> <a href="https://scholar.google.com/citations?user=C1ox2CEAAAAJ&hl=en"><img src="http://mdsierks.github.io/images/william_chapman_square.jpg" alt="Me" width="100"/> <a href="https://mralph.scrippsprofiles.ucsd.edu/"><img src="http://mdsierks.github.io/images/FMR.jpg" alt="FMR" width="100"/></a> 
 
 *****
 *****
@@ -43,9 +43,9 @@ The primary objective of this work is to develop a novel statistical post-proces
 <img src="http://mdsierks.github.io/images/BCplot.jpg" alt="BC" width="900"/>
 
 **Project Lead:** Mike Sierks<br/>
-<a href="https://mdsierks.github.io/"><img src="http://mdsierks.github.io/images/sierks_mike-5_0.jpg" alt="Me" width="100"/></a><br/>
+<a href="https://mdsierks.github.io/"><img src="http://mdsierks.github.io/images/sierks_mike-5_1.jpg" alt="Me" width="100"/></a><br/>
 
-**Collaborators:** Dave Pierce, Will Chapman, Marty Ralph <br/> <a href="http://cirrus.ucsd.edu/about-me/"><img src="http://mdsierks.github.io/images/DP.jpeg" alt="DP" width="100"/></a> <a href="https://willychap.github.io/"><img src="http://mdsierks.github.io/images/william_chapman_square.jpg" alt="Me" width="100"/> <a href="https://mralph.scrippsprofiles.ucsd.edu/"><img src="http://mdsierks.github.io/images/FMR.jpg" alt="FMR" width="100"/></a> 
+**Collaborators:** Dave Pierce, Will Chapman, Marty Ralph <br/> <a href="https://scholar.google.com/citations?user=HyQ59YkAAAAJ&hl=en"><img src="http://mdsierks.github.io/images/DP.jpg" alt="DP" width="100"/></a> <a href="https://scholar.google.com/citations?user=C1ox2CEAAAAJ&hl=en"><img src="http://mdsierks.github.io/images/william_chapman_square.jpg" alt="Me" width="100"/> <a href="https://mralph.scrippsprofiles.ucsd.edu/"><img src="http://mdsierks.github.io/images/FMR.jpg" alt="FMR" width="100"/></a> 
 
 *****
 *****
