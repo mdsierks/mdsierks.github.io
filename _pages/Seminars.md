@@ -41,12 +41,4 @@ A. Michaelis, [...], **M. Sierks**, and [...], “Predictability of Various Dyna
 
 **M Sierks**, J Kalansky, F Cannon, and FM Ralph, “Characteristics and Origins of Extreme Precipitation in the Lake Mead Watershed”, *Southwest Extreme Precipitation Symposium* - March 2019 Invited Speaker.
 
---------------------
-### Guest Lectures
-
-**M Sierks**, and K Voss, “Atmospheric River and Adaptive Management Strategies”, *Colorado Mountain College, SUS440* – February 7, 2020.
-
-**M Sierks**, and K Voss, “Atmospheric River Field Science and Logistics”, *Colorado Mountain College, SUS331* – February 5, 2020.
-
-**M Sierks**, R Keeling, “Transient Climate Response”, *UC San Diego, SIO117* – Dec. 4, 2019.
 
