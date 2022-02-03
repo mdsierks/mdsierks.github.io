@@ -32,6 +32,8 @@ extreme precipitation in the lake mead watershed”, Journal of Climate, Apr. 20
 
 A. Jakubisin, W. Chapman , and **M. Sierks**, “Sustainability and the Student Affairs Professional”, National Association of Student Personnel Administrators Annual Conference, March 2015 *peer reviewed conference paper*
 
+--------------------
+
 ### Non-Refereed Publications
 **M. Sierks**, D. Eppehimer, E. Fard, J. Kemper, C. Morrisett, J. Sturtevant, A. Willis, and L. Jennings, “Climate adaptation
 planning to support ecosystems and people in the Gila River Watershed, Arizona”, Southwest Climate Adaptation

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching and Mentoring"
+title: ""
 permalink: /teach/
 author_profile: true
 ---
@@ -16,9 +16,7 @@ author_profile: true
 {% endfor %}
 
  -->
-
-
-## Teaching
+# Teaching
 
 **M Sierks**, and K Voss, “Atmospheric River and Adaptive Management Strategies”, *Colorado Mountain College, SUS440* – February 7, 2020. **Guest Lecturer**
 
@@ -28,7 +26,9 @@ author_profile: true
 
 R Keeling, *Physical Basis of Global Warming, SIO117*, UC San Diego Fall 2019. **Teaching Assistant**
 
-## Mentoring
+--------------------
+
+# Mentoring
 
 Center for Western Weather and Water Extremes Summer Internship Program, *UC San Diego, Scripps Institution of Oceanography*, Summer 2020 & 2021. **Program Supervisor**
 
