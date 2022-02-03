@@ -3,9 +3,9 @@ layout: archive
 title: "Current Projects"
 permalink: /current_projects/
 author_profile: true
-header:
-  overlay_image: /images/mountain_range.png
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+# header:
+#   overlay_image: /images/mountain_range.png
+#   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 <!-- 
 {% if author.googlescholar %}

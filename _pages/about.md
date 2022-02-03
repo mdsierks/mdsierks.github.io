@@ -6,6 +6,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+header:
+  overlay_image: /images/mountain_range.png
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 ## About
 Hi! I'm Mike, a Ph.D. Candiate at the University of California, San Diego. Currently, I am in my final year of Climate Dynamics Ph.D. program at the [Scripps Institution of Oceanography](https://scripps.ucsd.edu/). I am part of the team at the [Center for Western Weather and Water Extremes](https://cw3e.ucsd.edu/) working with my advisor [Dr. Marty Ralph](https://mralph.scrippsprofiles.ucsd.edu/). 

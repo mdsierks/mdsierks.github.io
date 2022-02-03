@@ -27,9 +27,6 @@ The North American monsoon (NAM) is the main driver of summertime climate variab
 <a href="https://mdsierks.github.io/"><img src="http://mdsierks.github.io/images/MDS.jpg" alt="Me" width="100"/></a><br/>
 **Collaborators:** Julie Kalansky, Forest Cannon, Marty Ralph <br/> <a href="https://scripps.ucsd.edu/profiles/jkalansky"><img src="http://mdsierks.github.io/images/JK.jpg" alt="JK" width="100"/></a> <a href="https://scholar.google.com/citations?user=7tTzxJcAAAAJ&hl=en"><img src="http://mdsierks.github.io/images/FC.jpg" alt="FC" width="100"/></a> <a href="https://mralph.scrippsprofiles.ucsd.edu/"><img src="http://mdsierks.github.io/images/FMR.jpg" alt="FMR" width="100"/></a>
 
-*****
-*****
-*****
 
 ## Monthly Modulation of ENSO Teleconnections: Implications for North American Potential Predictability <br/>
 
@@ -41,8 +38,4 @@ Using a high-resolution atmospheric general circulation model simulation of unpr
 **Project Lead:** Will Chapman<br/>
 <a href="https://scholar.google.com/citations?user=C1ox2CEAAAAJ&hl=en"><img src="http://mdsierks.github.io/images/william_chapman_square.jpg" alt="Me" width="100"/></a><br/>
 **Collaborators:** Aneesh Subramanian, Mike Sierks, Shang-Ping Xie, Marty Ralph, Youichi Kamae <br/> <a href="https://www.colorado.edu/atoc/aneesh-subramanian-hehimhis"><img src="http://mdsierks.github.io/images/ACS.jpg" alt="ACS" width="100"/></a> <a href="https://scholar.google.com/citations?user=or6mIK0AAAAJ&hl=en"><img src="http://mdsierks.github.io/images/MDS.jpg" alt="MDS" width="100"/></a> <a href="https://sxie.scrippsprofiles.ucsd.edu/"><img src="http://mdsierks.github.io/images/SPX.jpg" alt="SPX" width="100"/></a> <a href="https://mralph.scrippsprofiles.ucsd.edu/"><img src="http://mdsierks.github.io/images/FMR.jpg" alt="FMR" width="100"/></a> <a href="https://sites.google.com/site/00youichikamae/"><img src="http://mdsierks.github.io/images/YK.jpg" alt="YK" width="100"/></a>
-
-*****
-*****
-*****
 
