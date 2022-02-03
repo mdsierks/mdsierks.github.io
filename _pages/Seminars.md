@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Talks & Seminars"
-permalink: /seminars/
+permalink: /Seminars/
 author_profile: true
 ---
 <!-- 
