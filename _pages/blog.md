@@ -21,5 +21,6 @@ author_profile: true
 ### 2020
 --------------------
 ## Radically Reimagined: Reflecting on my Power and Privilege as an Earth Scientist
-<i class="fab fa-calendar"></i> July 2, 2020 </br>
+
+<i class="fa-thin fa-calendar-lines"></i> July 2, 2020 <br/>
 Southwest Climate Adaptation Science Center (SWCASC) Newsletter. [Read more here](https://www.swcasc.arizona.edu/sw-casc-blog/radically-reimagined-reflecting-my-power-and-privilege-earth-scientist)
