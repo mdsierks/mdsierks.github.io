@@ -16,3 +16,5 @@ of climate change. I am also passionate about translating research to applicatio
 My dissertation focuses on evaluating the impacts of climate change on California's water resources. Currently, I am investigating the hydrological impacts of climate change on California’s largest reservoir, Lake Shasta. In this work, I am leveraging and developing novel statistical post-processing schemes to improve on current streamflow bias
 correction methods for CMIP5 models.
 
+
+<img src="http://mdsierks.github.io/images/mountain_range.png" alt="MTN" width="900"/>
