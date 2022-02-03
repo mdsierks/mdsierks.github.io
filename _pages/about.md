@@ -14,11 +14,8 @@ Hi! I'm Mike, a PhD Candiate at the University of California, San Diego. Current
 My research interests lie at the intersection of extreme weather and the socio-economic impacts
 of climate change. I am passionate about pursuing equitable solutions to risks posed by our changing climate in addition to  translating research into relevant scientific tools to empower informed decision making.
 
---------------------
-## My research
 My dissertation focuses on evaluating the impacts of climate change on California's water resources. Currently, I am investigating the hydrological impacts of climate change on California’s largest reservoir, Lake Shasta. In this work, I am leveraging and developing novel statistical post-processing schemes to improve on current streamflow bias
-correction methods for CMIP5 models. I have also studied synoptic drivers of extreme precipitation in the southwestern United States and their resulting impacts on the water resources of the region. Outside of my dissertation, I have pursued my interest in the intersection of science and policy through both through [awarded fellowships] (https://gps.ucsd.edu/news-events/news/science-policy-fellows-use-research-to-help-shape-well-informed-policy-options.html) and [extracurricular activities](https://sioscipol.sioword.ucsd.edu/). 
+correction methods for CMIP5 models. I have also studied synoptic drivers of extreme precipitation in the southwestern United States and their resulting impacts on the water resources of the region. Outside of my dissertation, I have pursued my interest in the intersection of science and policy through both through [awarded fellowships](https://gps.ucsd.edu/news-events/news/science-policy-fellows-use-research-to-help-shape-well-informed-policy-options.html) and [extracurricular activities](https://sioscipol.sioword.ucsd.edu/). 
 
-## Outside of work
-Apart from science, I enjoy being with my family and friends, spending time outdoors and in the water, cooking (when there's time to cook), and playing banjo.  
+
 <img src="http://mdsierks.github.io/images/mountain_range.png" alt="MTN" width="900"/>
