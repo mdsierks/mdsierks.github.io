@@ -34,3 +34,4 @@ R Keeling, *Physical Basis of Global Warming, SIO117*, UC San Diego Fall 2019. *
 
 Center for Western Weather and Water Extremes Summer Internship Program, *UC San Diego, Scripps Institution of Oceanography*, Summer 2020 & 2021. **Program Supervisor**
 
+**Mentor** at Center for Western Weather and Water Extremes, *UC San Diego, Scripps Institution of Oceanography* <br/> Madison Muxworthy (Now Soil Moisture, Water, & Snow Program Manager at Yampa Valley Sustainability Council)
