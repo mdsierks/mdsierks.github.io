@@ -1,6 +1,9 @@
 ---
 permalink: /
 title: " "
+header:
+  overlay_image: "mtn.jpg"
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 # excerpt: "About me"
 author_profile: true
 redirect_from: 
