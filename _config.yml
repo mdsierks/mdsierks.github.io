@@ -78,9 +78,9 @@ analytics:
     tracking_id          :
 
 header:
-  overlay_image: /assets/images/mountain_range.png
+  overlay_image: "mountain_range.png"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  
+
 # Site Author
 author:
   name             : "Mike Sierks"
