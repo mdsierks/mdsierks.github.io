@@ -4,7 +4,7 @@ title: "Blog Posts"
 permalink: /blog/
 author_profile: true
 header:
-  overlay_image: "mountain_range.png"
+  overlay_image: "mtn.jpg"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
