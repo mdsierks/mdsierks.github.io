@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Projects"
+title: ""
 permalink: /projects/
 author_profile: true
 ---
@@ -45,6 +45,10 @@ The primary objective of this work is to develop a novel statistical post-proces
 
 **Collaborators:** Dave Pierce, Will Chapman, Marty Ralph <br/> <a href="https://scholar.google.com/citations?user=HyQ59YkAAAAJ&hl=en"><img src="http://mdsierks.github.io/images/DP.jpg" alt="DP" width="100"/></a> <a href="https://scholar.google.com/citations?user=C1ox2CEAAAAJ&hl=en"><img src="http://mdsierks.github.io/images/william_chapman_square.jpg" alt="Me" width="100"/> <a href="https://mralph.scrippsprofiles.ucsd.edu/"><img src="http://mdsierks.github.io/images/FMR.jpg" alt="FMR" width="100"/></a> 
 
+<br/>
+<br/>
+<br/>
+
 # Selected Past Projects
 
 ## Characteristics, Origins, and Impacts of Summertime Extreme Precipitation in the Lake Mead Watershed <br/>
@@ -78,7 +82,7 @@ Using the Gila and San Pedro River basins within Arizona as a case study, this r
 
 <img src="http://mdsierks.github.io/images/swcasc.jpg" alt="BC" width="900"/>
 
-**Project Lead:** Collaborative Project<br/>
-<a href="https://mdsierks.github.io/"><img src="http://mdsierks.github.io/images/NRWD.jpg" alt="Me" width="900"/></a><br/>
+**Project Lead:** Collaborative Project <br/>
+<a href="https://mdsierks.github.io/"><img src="http://mdsierks.github.io/images/NRWD.png" alt="NRWD" width="900"/></a><br/>
 
 **Collaborators:** Drew Eppehimer, Elly Fard, Lydia Jennings, John Kemper, Christina Morrisett, Josh Sturtevant, Ann Willis 
