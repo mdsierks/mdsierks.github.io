@@ -16,17 +16,12 @@ main:
   - title: "Talks & Seminars"
     url: /seminars/
 
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
 
-  - title: "Extracurriculars"
-    url: /extrac/
+  - title: "Teaching & Mentoring"
+    url: /teach/
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "Blog Posts"
+    url: /blog/
     
   - title: "CV"
     url: /cv/

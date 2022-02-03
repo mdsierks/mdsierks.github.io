@@ -20,38 +20,33 @@ author_profile: true
 
 ### Conference Talks
 
-**W Chapman**, L Delle Monache, S Alessandrini, AC Subramanian, N Hayatbini, SP Xie, and FM Ralph, "Probabilistic Weather Prediction with Bayesian Neural Networks", *Machine Learning for Weather and Climate Modeling II* - AGU Fall Meeting 2020, 2020
+**M. Sierks**, M.D. Dettinger, W. Chapman, and F.M. Ralph, “Assessing Vulnerability and Adaptive Management Under Climate Change Scenarios: Lessons from California’s Largest Reservoir”, *AGU Fall Meeting 2020*, 2020.
 
-P Gibson, **W Chapman**, A Altinok, MJ Deflorio, L Delle Monache, and D Waliser, "Interpretable Machine Learning applied to Seasonal Forecasting of Western US Precipitation", *Machine Learning for Weather and Climate Modeling III* - AGU Fall Meeting 2020, 2020
+**M. Sierks**, J. Kalansky, F. Cannon, and F.M. Ralph, “Summertime Rossby Wave Breaking in the Eastern North Pacific: Links to Extreme Weather in the North American Monsoon Region”, *American Meteorological Society Annual Meeting 2020*, 2020.
 
+A. Michaelis, [...], **M. Sierks**, and [...], “Predictability of Various Dynamical Features during the 13–15 February 2019 Atmospheric River Event”, *American Meteorological Society Annual Meeting 2020*, 2020.
 
-**W Chapman**, TJ Kilpatrick, "Machine Learning for inpainting QuikSCAT winds in Hawaii's Lee Region", *AI Applied to Airborne or Spaceborne Earth Observation Datasets - 100th American Meteorological Society Annual Meeting, January 2020, 2020*. **AMS Student Presentation Award - 1st Place**
-
-
-**W Chapman**, "Atmospheric River Forecast Model Bias Correction", *19th Conference on Artificial Intelligence for Environmental Science* -  99th American Meteorological Society Annual Meeting, 2019.
-
-**W Chapman**, S.-P.Xie, and T. Kilpatrick, "Machine Learning to Improve QuikSCAT Ambiguity Selection Near Hawaii’s Big Island", *The International Ocean Vector Science Team Meeting, May 2019*.
+**M. Sierks**, J. Kalansky, F. Cannon, and F.M. Ralph, “Characteristics and Origins of Extreme Summertime Precipitation in the Lake Mead Watershed”, *American Meteorological Society Annual Meeting 2019*, 2019.
 
 
 --------------------
 ### Invited Talks
 
 
-**W Chapman**, L Delle Monache, S Alessandrini, AC Subramanian, N Hayatbini, SP Xie, and FM Ralph, "Deterministic and Probabilistic Methods for Improving Atmospheric River Forecasts with Machine Learning", *Scripps Institutional Seminar* -- November 17, 2020
+**M Sierks**, “Climatology and Impacts of Extreme Summertime Precipitation in the NAM Tier II region”, *National Weather Service Las Vegas, Monsoon Training Day 2021* – June 10, 2021. **Invited Speaker**.
 
-**W Chapman**, "Bayesian Neural Networks and NWP Forecast Post-Processing", *UCI/Columbia CBrain Meeting* -- April 21, 2020
+**M Sierks**, and K Voss, “Climate Change Impacts on Snowpack and Ski Resorts”, *Steamboat Ski Resort* – February 6, 2020. **Invited Speaker**.
 
-**W Chapman**, Instructor: "AGU Tutorial on Machine Learning and Deep Learning for the Environmental and Geosciences", *AGU Fall Meeting* -- December 8, 2019
+**M Sierks**, J Kalansky, and FM Ralph, “Characteristics and Origins of Extreme Summertime Precipitation in the Lake Mead Watershed”, *Western States Water Council/California Department of Water Resources Sub-Seasonal to Seasonal (S2S) Precipitation Forecasting Workshop* – May 24, 2019.
 
-**W Chapman**, AC Subramanian, L Delle Monache, SP Xie, and FM Ralph, "Spatial Correction of NWP Forecasts", *National Center for Atmospheric Research RAL* -- November 7, 2019
+**M Sierks**, J Kalansky, F Cannon, and FM Ralph, “Characteristics and Origins of Extreme Precipitation in the Lake Mead Watershed”, *Southwest Extreme Precipitation Symposium* - March 2019 Invited Speaker.
 
-**W Chapman**, T Kilpatrick, and SP Xie, "Comparative Field Reconstruction: Deep Learning, MCA, CCA", *National Center for Atmospheric Research - Artificial Intelligence Affinity Group (AIAG)* -- Oct 9, 2019
+--------------------
+### Guest Lectures
 
-**W Chapman**, A Wilson, and FM Ralph, "Center for Western Weather and Water Extremes: Atmospheric River Colloquium", *Western States Water Council and the California Department of Water Resources Subseasonal to Seasonal Workshop* -- May 23, 2019
+**M Sierks**, and K Voss, “Atmospheric River and Adaptive Management Strategies”, *Colorado Mountain College, SUS440* – February 7, 2020.
 
+**M Sierks**, and K Voss, “Atmospheric River Field Science and Logistics”, *Colorado Mountain College, SUS331* – February 5, 2020.
 
-**W Chapman**, SP Xie, and FM Ralph, "High Impact Weather, Climate Extremes, and Non-Gaussian Statistics", *Climate Science Policy Ocean/Atmos Ph.D. Student Seminar* -- February 8, 2019
-
-
-**W Chapman**, "No Red Meat or a New Electric Vehicle, Food Choices and Emissions", *Connecting the Dots 2015: The Food, Energy, Water and Climate Nexus*, Stanford University -- April 17, 2015
+**M Sierks**, R Keeling, “Transient Climate Response”, *UC San Diego, SIO117* – Dec. 4, 2019.
 
