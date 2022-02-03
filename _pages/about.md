@@ -20,4 +20,4 @@ correction methods for CMIP5 models.
 <!-- I have also studied synoptic drivers of extreme precipitation in the southwestern United States and their resulting impacts on the water resources of the region. Outside of my dissertation, I have pursued my interest in the intersection of science and policy through both through [awarded fellowships](https://gps.ucsd.edu/news-events/news/science-policy-fellows-use-research-to-help-shape-well-informed-policy-options.html) and [extracurricular activities](https://sioscipol.sioword.ucsd.edu/). 
  -->
 
-<img src="http://mdsierks.github.io/images/mountain_range.png" alt="MTN" width="900"/>
+<!-- <img src="http://mdsierks.github.io/images/mountain_range.png" alt="MTN" width="900"/> -->
