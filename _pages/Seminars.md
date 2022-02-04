@@ -35,12 +35,12 @@ A. Michaelis, [...], **M. Sierks**, and [...], “Predictability of Various Dyna
 ## Invited Talks
 
 
-**M Sierks**, “Climatology and Impacts of Extreme Summertime Precipitation in the NAM Tier II region”, *National Weather Service Las Vegas, Monsoon Training Day 2021* – June 10, 2021. **Invited Speaker**.
+**M. Sierks**, “Climatology and Impacts of Extreme Summertime Precipitation in the NAM Tier II region”, *National Weather Service Las Vegas, Monsoon Training Day 2021* – June 10, 2021. **Invited Speaker**.
 
-**M Sierks**, and K Voss, “Climate Change Impacts on Snowpack and Ski Resorts”, *Steamboat Ski Resort* – February 6, 2020. **Invited Speaker**.
+**M. Sierks**, and K. Voss, “Climate Change Impacts on Snowpack and Ski Resorts”, *Steamboat Ski Resort* – February 6, 2020. **Invited Speaker**.
 
-**M Sierks**, J Kalansky, and FM Ralph, “Characteristics and Origins of Extreme Summertime Precipitation in the Lake Mead Watershed”, *Western States Water Council/California Department of Water Resources Sub-Seasonal to Seasonal (S2S) Precipitation Forecasting Workshop* – May 24, 2019.
+**M. Sierks**, J. Kalansky, and F.M. Ralph, “Characteristics and Origins of Extreme Summertime Precipitation in the Lake Mead Watershed”, *Western States Water Council/California Department of Water Resources Sub-Seasonal to Seasonal (S2S) Precipitation Forecasting Workshop* – May 24, 2019.
 
-**M Sierks**, J Kalansky, F Cannon, and FM Ralph, “Characteristics and Origins of Extreme Precipitation in the Lake Mead Watershed”, *Southwest Extreme Precipitation Symposium* - March 2019 Invited Speaker.
+**M. Sierks**, J. Kalansky, F. Cannon, and F.M. Ralph, “Characteristics and Origins of Extreme Precipitation in the Lake Mead Watershed”, *Southwest Extreme Precipitation Symposium* - March 2019 Invited Speaker.
 
 
