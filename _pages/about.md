@@ -10,7 +10,7 @@ redirect_from:
   - /about.html
 ---
 ## About me
-Hi! I'm Mike, a Ph.D. Candiate at the University of California, San Diego. Currently, I am in my final year of Climate Dynamics Ph.D. program at the [Scripps Institution of Oceanography](https://scripps.ucsd.edu/). I am part of the team at the [Center for Western Weather and Water Extremes](https://cw3e.ucsd.edu/) working with my advisor [Dr. Marty Ralph](https://mralph.scrippsprofiles.ucsd.edu/). 
+Hi! I'm Mike, a Ph.D. Candidate at the University of California, San Diego. Currently, I am in my final year of Climate Dynamics Ph.D. program at the [Scripps Institution of Oceanography](https://scripps.ucsd.edu/). I am part of the team at the [Center for Western Weather and Water Extremes](https://cw3e.ucsd.edu/) working with my advisor [Dr. Marty Ralph](https://mralph.scrippsprofiles.ucsd.edu/). 
 
 My research interests lie at the intersection of extreme weather and the socio-economic impacts
 of climate change. I am passionate about pursuing equitable solutions to risks posed by our changing climate in addition to  translating research into relevant scientific tools to empower informed decision making.
